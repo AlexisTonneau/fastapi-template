@@ -27,3 +27,6 @@ It is meant to be used as a [repository template](https://docs.github.com/reposi
 
 ## Configuration
 **Specifying port**: `$ PORT=3000 python app/main.py`
+
+
+> Template created by [Alexis Tonneau](https://github.com/AlexisTonneau)
